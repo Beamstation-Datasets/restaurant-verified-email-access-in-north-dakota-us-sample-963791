@@ -9,9 +9,9 @@
 | Dataset ID | `963791` |
 | Location | North Dakota |
 | Category | Restaurants |
-| Full dataset size | 260 records |
-| Free sample size | 24 records (9.23%) |
-| Last export | 2026-04-08T00:03:17.033994+00:00 |
+| Full dataset size | 245 records |
+| Free sample size | 24 records (9.8%) |
+| Last export | 2026-04-15T05:48:45.813060+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-north-dakota-us-sample-963791/releases/download/sample-latest/beamstation_963791_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
