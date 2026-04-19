@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b4d982ee-e336-4030-8614-17a37d2bc5ac",
+  "export_job_id": "f21110ac-2973-4af0-a7f4-4eb8e4c77406",
   "id_short": 963791,
-  "published_at": "2026-04-15T19:58:19Z",
+  "published_at": "2026-04-19T07:07:11Z",
   "repo_name": "restaurant-verified-email-access-in-north-dakota-us-sample-963791",
   "sample_asset_name": "beamstation_963791_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/963791/beamstation_963791_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_records": 24,
   "sample_sha256": "8817a90cf8c3ca878b9ca8ed78f521f9f07d1d767690b8647c3dfbd374e6f2b5",
   "sample_size_bytes": 110482,
-  "total_records": 260
+  "total_records": 245
 }
