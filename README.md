@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in North Dakota, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `963791` |
 | Location | North Dakota |
 | Category | Restaurants |
-| Full dataset size | 49 records |
-| Free sample size | 4 records (8.16%) |
-| Last export | 2026-04-22T11:33:27.249735+00:00 |
+| Full dataset size | 260 records |
+| Free sample size | 26 records (10.0%) |
+| Last export | 2026-04-29T12:43:48.688243+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-north-dakota-us-sample-963791/releases/download/sample-latest/beamstation_963791_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
